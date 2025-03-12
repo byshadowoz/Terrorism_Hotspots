@@ -1,0 +1,15 @@
+name: analise_ter
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - scikit-learn
+  - pytorch
+  - tensorflow
+  - pyspark
+  
