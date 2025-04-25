@@ -22,4 +22,21 @@ terrorism-related data and nature of terrorist incidents recorded around the wor
     - Is the number of incidents and the number of casualties correlated? Can you spot any irregularities or outliers?
     - What are the most common methods of attacks? Does it differ in various regions or in time?
     - Plot the locations of attacks on a map to visualize their regional spread;
-    
+
+## How run the project
+
+### Install and activate conda env
+[Conda instalation](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+```Bash
+conda env create -f Environment.yml
+```
+Activate env
+```
+conda activate analize_ter
+```
+Use Jupyter notebook or Visual studio code with Jupyter notebook extension
+***
+## Author:
+[Cesar leones](https://github.com/byshadowoz)
+
+**This is a educational only proyect**
